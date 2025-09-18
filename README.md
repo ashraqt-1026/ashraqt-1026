@@ -38,13 +38,6 @@ NumPy · Pandas · Matplotlib · Seaborn · OpenCV · Tkinter
 
 ---
 
-
-## ✨ Soft Skills
-- Communication · Teamwork · Problem Solving  
-- Adaptability · Time Management · Leadership  
-
----
-
 ## 📫 How to reach me
 📧 **Email:** ashrqtmohamed40@gmail.com  
 🔗 **LinkedIn:** [www.linkedin.com/in/ashraqt-muhammad](www.linkedin.com/in/ashraqt-muhammad)  
