@@ -8,8 +8,14 @@
 ---
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:www.linkedin.com/in/ashraqt-muhammad)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashrqtmohamed40@gmail.com)  
+<a href="https://www.linkedin.com/in/ashraqt-muhammad" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>  
+
+<a href="mailto:ashrqtmohamed40@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>  
+
 
 ---
 
