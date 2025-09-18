@@ -8,7 +8,7 @@
 ---
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashraqt-muhammad)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:www.linkedin.com/in/ashraqt-muhammad)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashrqtmohamed40@gmail.com)  
 
 ---
@@ -41,7 +41,7 @@ NumPy · Pandas · Matplotlib · Seaborn · OpenCV · Tkinter
 
 ## 📫 How to reach me
 📧 **Email:** ashrqtmohamed40@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/ashraqt-muhammad)  
+🔗 **LinkedIn:** [www.linkedin.com/in/ashraqt-muhammad](www.linkedin.com/in/ashraqt-muhammad)  
 
 ---
 
