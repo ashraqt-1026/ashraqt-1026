@@ -32,11 +32,6 @@ NumPy · Pandas · Matplotlib · Seaborn · OpenCV · Tkinter
 
 ---
 
-## 📊 GitHub Stats
-![Ashraqat's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight)  
-
----
 
 ## ✨ Soft Skills
 - Communication · Teamwork · Problem Solving  
@@ -45,8 +40,8 @@ NumPy · Pandas · Matplotlib · Seaborn · OpenCV · Tkinter
 ---
 
 ## 📫 How to reach me
-📧 **Email:** your.email@example.com  
-🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/)  
+📧 **Email:** ashrqtmohamed40@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/ashraqt-muhammad)  
 
 ---
 
