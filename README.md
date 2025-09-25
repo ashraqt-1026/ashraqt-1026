@@ -19,11 +19,6 @@
 
 ---
 
-## 🚀 Projects
-- 📷 [Image Filter Application](#) – Python, OpenCV, Tkinter  
-- 🗄️ [Database Design Project](#) – SQL, ERD, Schema Design  
-
----
 
 ## 🛠️ Skills
 **Languages & Tools:**  
